@@ -17,7 +17,7 @@ Streaming, edge and media automation projects.
 | [appchat](https://stream-ware.github.io/appchat/) | Appchat | Python |
 | [docs](https://stream-ware.github.io/docs/) | Docs | — |
 | [edge](https://stream-ware.github.io/edge/) | Edge | Python |
-| [edpm](https://stream-ware.github.io/edpm/) | Edpm | Python |
+| [edpm](https://stream-ware.github.io/edpm/) | EDPM Lite - Edge Data Processing and Monitoring framework for IoT and Industrial Applications | Python |
 | [edpmt](https://stream-ware.github.io/edpmt/) | Edpmt | Python |
 | [mova](https://stream-ware.github.io/mova/) | Mova | — |
 | [movacloud](https://stream-ware.github.io/movacloud/) | Movacloud | — |
