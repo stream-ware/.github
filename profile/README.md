@@ -39,4 +39,4 @@ Streaming, edge and media automation projects.
 - **Łącznie projektów**: 17
 - **Strony projektów**: `https://stream-ware.github.io/<repo>/`
 
-_Ostatnia aktualizacja: 2026-09-03_
+_Ostatnia aktualizacja: 2026-09-04_
